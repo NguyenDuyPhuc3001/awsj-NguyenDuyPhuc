@@ -1,4 +1,4 @@
-baseURL = "https://nguyenduyphuc3001.github.io/AWS-FCAJ/"
+baseURL = "https://nguyenduyphuc3001.github.io/awsj-NguyenDuyPhuc/"
 relativeURLs = true
 canonifyURLs = true
 defaultContentLanguage = "en"
@@ -6,7 +6,7 @@ defaultContentLanguage = "en"
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
 
-# For search functionality
+# For search functionalitySSSS
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
