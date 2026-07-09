@@ -200,6 +200,6 @@ I walked away not only with a list of new technologies to explore but, more impo
 
 ## Event Photos
 
-![Event picture 27/6-1](./anheventsukien27-6-1.jpg) "Event picture 27/6-1"
-![Event picture 27/6-2](./anheventsukien27-6-2.jpg) "Event picture 27/6-2"
-![Event picture 27/6-3](./anheventsukien27-6-3.jpg) "Event picture 27/6-3"
+![Event picture 27/6-1](../anheventsukien27-6-1.jpg) "Event picture 27/6-1"
+![Event picture 27/6-2](../anheventsukien27-6-2.jpg) "Event picture 27/6-2"
+![Event picture 27/6-3](../anheventsukien27-6-3.jpg) "Event picture 27/6-3"

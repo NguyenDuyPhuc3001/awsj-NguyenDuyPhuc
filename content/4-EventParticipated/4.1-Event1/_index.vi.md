@@ -199,6 +199,6 @@ Khép lại sự kiện, mình thu về không chỉ là danh sách các công n
 
 ## Hình ảnh sự kiện
 
-![Ảnh sự kiện 27/6-1](./anheventsukien27-6-1.jpg) "Ảnh sự kiện 27/6-1"
-![Ảnh sự kiện 27/6-2](./anheventsukien27-6-2.jpg) "Ảnh sự kiện 27/6-2"
-![Ảnh sự kiện 27/6-3](./anheventsukien27-6-3.jpg) "Ảnh sự kiện 27/6-3"
+![Ảnh sự kiện 27/6-1](../anheventsukien27-6-1.jpg) "Ảnh sự kiện 27/6-1"
+![Ảnh sự kiện 27/6-2](../anheventsukien27-6-2.jpg) "Ảnh sự kiện 27/6-2"
+![Ảnh sự kiện 27/6-3](../anheventsukien27-6-3.jpg) "Ảnh sự kiện 27/6-3"
