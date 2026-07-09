@@ -36,4 +36,3 @@ pre: " <b> 1.4. </b> "
 
 * Completed the hands-on labs related to Amazon VPC.
 
-* Received **20 USD AWS Promotional Credits** after successfully completing the Amazon VPC learning activities.

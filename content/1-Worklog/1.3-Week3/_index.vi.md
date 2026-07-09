@@ -36,4 +36,4 @@ pre: " <b> 1.3. </b> "
 
 * Hoàn thành các bài thực hành (Hands-on Labs) liên quan đến Amazon S3.
 
-* Nhận **20 USD AWS Promotional Credits** sau khi hoàn thành các nội dung học và thực hành về Amazon S3.
+* Nhận **80 USD AWS Promotional Credits**

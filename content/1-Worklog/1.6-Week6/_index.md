@@ -36,4 +36,3 @@ pre: " <b> 1.6. </b> "
 
 * Completed the hands-on labs related to AWS Lambda.
 
-* Received **20 USD AWS Promotional Credits** after successfully completing the AWS Lambda learning activities.

@@ -36,4 +36,4 @@ pre: " <b> 1.3. </b> "
 
 * Completed the hands-on labs related to Amazon S3.
 
-* Received **20 USD AWS promotional credits** after successfully completing the Amazon S3 learning activities.
+* Received **80 USD AWS promotional credits**

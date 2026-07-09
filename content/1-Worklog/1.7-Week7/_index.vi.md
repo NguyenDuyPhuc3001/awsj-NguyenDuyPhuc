@@ -36,4 +36,3 @@ pre: " <b> 1.7. </b> "
 
 * Hoàn thành các bài thực hành (Hands-on Labs) liên quan đến Amazon RDS.
 
-* Nhận **20 USD AWS Promotional Credits** sau khi hoàn thành các nội dung học và thực hành về Amazon RDS.

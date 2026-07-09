@@ -36,4 +36,3 @@ pre: " <b> 1.5. </b> "
 
 * Completed the hands-on labs related to AWS IAM.
 
-* Received **20 USD AWS Promotional Credits** after successfully completing the AWS IAM learning activities.
