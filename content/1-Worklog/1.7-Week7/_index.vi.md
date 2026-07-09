@@ -9,51 +9,31 @@ pre: " <b> 1.7. </b> "
 ⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
 {{% /notice %}}
 
-
 ### Mục tiêu tuần 7:
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Tìm hiểu dịch vụ Amazon Relational Database Service (Amazon RDS) và các dịch vụ cơ sở dữ liệu được quản lý trên AWS.
+* Thực hành tạo, cấu hình và quản lý cơ sở dữ liệu quan hệ bằng Amazon RDS.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
 
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
+| 2 | - Tìm hiểu tổng quan về Amazon RDS, các hệ quản trị cơ sở dữ liệu được hỗ trợ và các trường hợp sử dụng phổ biến. | 01/06/2026 | 01/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 3 | - Tạo Amazon RDS Database Instance. <br> - Cấu hình thông số Instance, dung lượng lưu trữ và các thiết lập kết nối. | 02/06/2026 | 02/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 4 | - Tìm hiểu cơ chế bảo mật cho cơ sở dữ liệu. <br> - Cấu hình Security Group và quyền truy cập vào Database. | 03/06/2026 | 03/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 5 | - Kết nối đến Amazon RDS bằng công cụ quản lý cơ sở dữ liệu. <br> - Thực hành các thao tác quản lý và truy vấn dữ liệu cơ bản. | 04/06/2026 | 04/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 6 | - Hoàn thành các bài thực hành (Hands-on Labs) về Amazon RDS. <br> - Ôn tập kiến thức về quản trị cơ sở dữ liệu và tổng hợp nội dung đã học. | 05/06/2026 | 05/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Kết quả đạt được tuần 7:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* Hiểu được kiến trúc và các khái niệm cốt lõi của dịch vụ Amazon Relational Database Service (Amazon RDS).
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+* Tạo và cấu hình thành công Amazon RDS Database Instance.
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+* Biết cách cấu hình kết nối cơ sở dữ liệu, Security Group và quyền truy cập.
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
+* Kết nối thành công đến cơ sở dữ liệu và thực hiện các thao tác quản lý dữ liệu cơ bản.
 
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
+* Hoàn thành các bài thực hành (Hands-on Labs) liên quan đến Amazon RDS.
 
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
-
-
+* Nhận **20 USD AWS Promotional Credits** sau khi hoàn thành các nội dung học và thực hành về Amazon RDS.

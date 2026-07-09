@@ -1,12 +1,11 @@
 ---
 title: "Blog 1 - Understanding Binary Asset Storage Architecture with Lore on AWS"
-date: 2024-01-01
+date: 2026-06-24
 weight: 1
 chapter: false
 pre: " <b> 3.1. </b> "
 ---
 
-# UNDERSTANDING BINARY ASSET STORAGE ARCHITECTURE WITH LORE ON AWS
 
 ## Introduction
 
@@ -142,7 +141,7 @@ This architecture is an excellent reference for organizations in the gaming indu
 
 The following architecture illustrates how **Lore** manages binary asset storage on AWS. Binary assets are received through Edge Pods, routed using AWS Cloud Map, processed by Amazon ECS, and stored in Amazon S3 and Amazon DynamoDB. This architecture improves scalability, reduces duplicate data, and optimizes storage efficiency for large-scale game and digital media projects.
 
-![AWS Reference Architecture for Binary Asset Storage with Lore]("\anhblog1.jpg")
+![AWS Reference Architecture for Binary Asset Storage with Lore](/images/3-Blog/aws-reference-architecture-for-binary-asset-storage-with-lore.jpg)
 
 *Figure 1. AWS Reference Architecture for Binary Asset Storage with Lore.*
 

@@ -9,51 +9,29 @@ pre: " <b> 1.10. </b> "
 ⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
 {{% /notice %}}
 
-
 ### Mục tiêu tuần 10:
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Hoàn thiện đồ án hệ thống thuê sân cầu lông trên nền tảng AWS.
+* Hoàn thành triển khai, kiểm thử và tổng kết dự án.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
 
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
+| 2 | - Thảo luận với các thành viên trong nhóm để thống nhất yêu cầu và phạm vi của hệ thống thuê sân cầu lông. | 22/06/2026 | 22/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 3 | - Phân tích yêu cầu hệ thống. <br>&emsp; + Quản lý người dùng. <br>&emsp; + Đặt lịch thuê sân. <br>&emsp; + Quản lý thanh toán. <br>&emsp; + Quản lý lịch sử đặt sân. | 23/06/2026 | 23/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 4 | - Thiết kế kiến trúc hệ thống. <br> - Hoàn thiện sơ đồ AWS Architecture Diagram cho dự án. | 24/06/2026 | 24/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 5 | - Chuẩn bị môi trường triển khai trên AWS. <br> - Thiết lập kho mã nguồn GitHub và phân chia công việc cho các thành viên. | 25/06/2026 | 25/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 6 | - Tích hợp các chức năng của hệ thống. <br> - Kiểm thử toàn bộ quy trình hoạt động. <br> - Hoàn thiện báo cáo và chuẩn bị trình bày dự án. | 26/06/2026 | 26/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Kết quả đạt được tuần 10:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* Hoàn thành đồ án hệ thống thuê sân cầu lông theo đúng kế hoạch.
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+* Hoàn thiện kiến trúc hệ thống và triển khai các thành phần trên nền tảng AWS.
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+* Tích hợp thành công các chức năng của hệ thống và xử lý các lỗi phát sinh trong quá trình kiểm thử.
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
+* Hoàn thành kiểm thử, đánh giá hoạt động của hệ thống và xác nhận các chức năng chính vận hành ổn định.
 
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
-
-
+* Hoàn thiện báo cáo, tài liệu dự án và chuẩn bị cho buổi trình bày tổng kết.

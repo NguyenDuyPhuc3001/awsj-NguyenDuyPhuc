@@ -9,49 +9,31 @@ pre: " <b> 1.4. </b> "
 ⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
 {{% /notice %}}
 
-
 ### Week 4 Objectives:
 
-* Connect and get acquainted with members of First Cloud AI Journey.
-* Understand basic AWS services, how to use the console & CLI.
+* Learn the fundamentals of Amazon VPC and networking components in AWS.
+* Practice creating and configuring a Virtual Private Cloud (VPC) and its associated networking resources.
 
 ### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
 
+| Day | Task | Start Date | Completion Date | Reference Material |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ----------------------------------------- |
+| 2 | - Learn the basic concepts of Amazon VPC, CIDR blocks, Subnets, Route Tables, and Internet Gateway. | 05/11/2026 | 05/11/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 3 | - Create a Virtual Private Cloud (VPC). <br> - Configure Public Subnet and Private Subnet. | 05/12/2026 | 05/12/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 4 | - Configure Route Tables and associate them with Subnets. <br> - Create and attach an Internet Gateway to the VPC. | 05/13/2026 | 05/13/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 5 | - Launch an EC2 Instance inside the configured VPC. <br> - Verify network connectivity and SSH access. | 05/14/2026 | 05/14/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 6 | - Complete the Amazon VPC hands-on labs. <br> - Review networking concepts and summarize the acquired knowledge. | 05/15/2026 | 05/15/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Week 4 Achievements:
 
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* Understood the architecture and core networking concepts of Amazon VPC.
 
-* Successfully created and configured an AWS Free Tier account.
+* Successfully created and configured a Virtual Private Cloud with Public and Private Subnets.
 
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
+* Configured Route Tables and Internet Gateway to enable communication between AWS resources and the Internet.
 
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
+* Deployed an EC2 Instance within the VPC and verified network connectivity.
 
-* Used AWS CLI to perform basic operations such as:
+* Completed the hands-on labs related to Amazon VPC.
 
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
-
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+* Received **20 USD AWS Promotional Credits** after successfully completing the Amazon VPC learning activities.

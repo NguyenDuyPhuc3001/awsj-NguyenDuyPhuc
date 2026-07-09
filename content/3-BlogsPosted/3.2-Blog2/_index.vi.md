@@ -1,12 +1,11 @@
 ---
 title: "Blog 2 - Ngăn chặn rò rỉ dữ liệu trên AWS bằng Egress Controls cho Cloud Workloads"
-date: 2024-01-02
+date: 2026-06-30
 weight: 2
 chapter: false
 pre: " <b> 3.2. </b> "
 ---
 
-# NGĂN CHẶN RÒ RỈ DỮ LIỆU TRÊN AWS BẰNG EGRESS CONTROLS CHO CLOUD WORKLOADS
 
 ## Giới thiệu
 
@@ -171,7 +170,7 @@ Bằng cách kết hợp AWS Network Firewall, Route 53 Resolver DNS Firewall, G
 
 Kiến trúc dưới đây minh họa mô hình nhiều lớp mà AWS đề xuất để ngăn chặn và phát hiện các hành vi **Data Exfiltration**. Kiến trúc kết hợp các dịch vụ như AWS Network Firewall, Amazon Route 53 Resolver DNS Firewall, Data Perimeter, Amazon GuardDuty, AWS Security Hub và Amazon CloudWatch nhằm tăng cường khả năng bảo vệ lưu lượng đi ra (Egress Traffic).
 
-![AWS Reference Architecture for Preventing Data Exfiltration](\anhblog2.jpg)
+![AWS Reference Architecture for Preventing Data Exfiltration](/images/3-Blog/aws-reference-architecture-for-preventing-data-exfiltration.jpg)
 
 *Hình 2. AWS Reference Architecture for Preventing Data Exfiltration.*
 

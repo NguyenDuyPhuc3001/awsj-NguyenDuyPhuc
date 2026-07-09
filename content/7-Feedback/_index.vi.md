@@ -9,33 +9,37 @@ pre: " <b> 7. </b> "
 ### Đánh giá chung
 
 **1. Môi trường làm việc**  
-Môi trường làm việc chuyên nghiệp, thân thiện và tạo cảm giác thoải mái cho thực tập sinh. Các thành viên trong FCAJ luôn sẵn sàng trao đổi, hỗ trợ khi gặp khó khăn, giúp mình nhanh chóng hòa nhập với công việc. Không gian làm việc cũng tạo điều kiện để tập trung và nâng cao hiệu quả làm việc.
+Môi trường làm việc tại FCAJ rất chuyên nghiệp, thân thiện và cởi mở đối với thực tập sinh. Các anh chị đồng nghiệp luôn sẵn sàng trao đổi và nhiệt tình hỗ trợ mỗi khi mình gặp khó khăn, giúp mình nhanh chóng thích nghi với công việc. Bên cạnh đó, không gian làm việc cũng được bố trí hợp lý, tạo điều kiện lý tưởng để tập trung và tối ưu hóa hiệu suất làm việc.
 
 **2. Sự hỗ trợ của mentor / team admin**  
-Mentor luôn theo sát quá trình thực tập, giao nhiệm vụ rõ ràng và hướng dẫn cách giải quyết vấn đề thay vì chỉ cung cấp đáp án. Team admin hỗ trợ đầy đủ về tài liệu, quy trình và giải đáp các thắc mắc trong quá trình thực tập, giúp mình hoàn thành công việc đúng tiến độ.
+Mentor luôn theo sát tiến độ, giao việc với mục tiêu rõ ràng và hướng dẫn tư duy giải quyết vấn đề thay vì chỉ đưa ra đáp án có sẵn. Song song đó, Team admin cũng hỗ trợ rất chu đáo về mặt tài liệu, hướng dẫn quy trình và giải đáp thắc mắc kịp thời, giúp mình luôn đảm bảo hoàn thành công việc đúng hạn.
 
 **3. Sự phù hợp giữa công việc và chuyên ngành học**  
-Các nội dung thực tập có sự liên kết với chuyên ngành Công nghệ thông tin, đặc biệt là lĩnh vực điện toán đám mây và hạ tầng AWS. Những kiến thức đã học trên lớp được vận dụng vào các bài lab thực tế, đồng thời mình cũng có cơ hội tiếp cận thêm nhiều dịch vụ và công nghệ mới.
+Các nội dung thực tập có sự liên kết chặt chẽ với nền tảng kiến thức thuộc chuyên ngành Hệ thống thông tin, đặc biệt là trong lĩnh vực điện toán đám mây và hạ tầng AWS. Mình đã có cơ hội vận dụng trực tiếp những lý thuyết học trên giảng đường vào các bài lab thực tế, đồng thời mở rộng hiểu biết về nhiều dịch vụ và công nghệ hiện đại.
 
 **4. Cơ hội học hỏi & phát triển kỹ năng**  
-Chương trình thực tập giúp mình nâng cao kỹ năng tự học, tìm hiểu tài liệu kỹ thuật và giải quyết vấn đề. Bên cạnh đó, mình được rèn luyện khả năng quản lý thời gian, làm việc theo kế hoạch và sử dụng các dịch vụ AWS trong các tình huống thực tế.
+Kỳ thực tập đã giúp mình cải thiện đáng kể năng lực tự học, kỹ năng tra cứu tài liệu kỹ thuật và tư duy giải quyết vấn đề. Hơn thế nữa, mình còn được rèn luyện cách quản lý thời gian hiệu quả, kỹ năng lập kế hoạch công việc khoa học và có cơ hội trực tiếp triển khai các dịch vụ AWS vào những tình huống thực tế.
 
 **5. Văn hóa & tinh thần đồng đội**  
-Mọi người trong nhóm luôn hợp tác, sẵn sàng chia sẻ kiến thức và hỗ trợ lẫn nhau khi gặp khó khăn. Không khí làm việc tích cực giúp mình tự tin trao đổi ý kiến, chủ động học hỏi và cải thiện kỹ năng trong suốt thời gian thực tập.
+Các thành viên trong nhóm luôn thể hiện tinh thần gắn kết, sẵn sàng chia sẻ kinh nghiệm và hỗ trợ lẫn nhau. Bầu không khí làm việc tích cực này đã tiếp thêm cho mình sự tự tin khi trình bày ý tưởng, thúc đẩy tinh thần chủ động học hỏi và không ngừng hoàn thiện bản thân trong suốt kỳ thực tập.
 
 **6. Chính sách / phúc lợi cho thực tập sinh**  
-Công ty xây dựng lộ trình học tập và thực hành rõ ràng, cung cấp tài liệu cũng như các bài lab phù hợp với từng giai đoạn. Thực tập sinh được tạo điều kiện tiếp cận môi trường làm việc thực tế và nhận được sự hỗ trợ kịp thời khi cần.
+Công ty đã thiết kế một lộ trình đào tạo và thực hành rất bài bản, cung cấp đầy đủ tài liệu cùng các bài lab bám sát mục tiêu của từng giai đoạn. Thực tập sinh luôn được tạo điều kiện tối đa để cọ xát với môi trường thực tế và nhận được sự đồng hành, hỗ trợ kịp thời từ đội ngũ.
 
+---
 
 ### Một số câu hỏi khác
-- Tôi **hài lòng nhất** với điều gì trong thời gian thực tập? 
-Mình hài lòng nhất vì được tiếp cận nhiều dịch vụ AWS thông qua các bài lab thực tế, đồng thời nhận được sự hướng dẫn tận tình từ mentor trong suốt quá trình học tập và thực hành. 
-- Chương trình **nên cải thiện** cho các thực tập sinh sau?  
-Có thể bổ sung thêm các buổi chia sẻ kinh nghiệm hoặc workshop về những dự án thực tế để thực tập sinh hiểu rõ hơn cách áp dụng kiến thức vào công việc.
-- Tôi có **giới thiệu họ thực tập ở đây không**? Vì sao?  
-Có. Vì chương trình thực tập có lộ trình rõ ràng, nội dung phù hợp với người mới bắt đầu, mentor hỗ trợ nhiệt tình và tạo điều kiện để thực tập sinh học hỏi, phát triển kỹ năng chuyên môn.
+- **Bạn hài lòng nhất với điều gì trong thời gian thực tập?**  
+Điều khiến mình hài lòng nhất là cơ hội được trực tiếp thao tác trên đa dạng các dịch vụ AWS thông qua hệ thống bài lab thực tế, cùng với sự đồng hành và hướng dẫn vô cùng tận tâm từ mentor trong suốt chặng đường học tập.
 
+- **Chương trình nên cải thiện điều gì cho các thực tập sinh sau?**  
+Chương trình có thể cân nhắc bổ sung thêm các buổi chia sẻ kinh nghiệm hoặc workshop xoay quanh các dự án thực tế. Điều này sẽ giúp thực tập sinh hình dung rõ nét hơn về cách ứng dụng kiến thức lý thuyết vào môi trường doanh nghiệp.
+
+- **Bạn có giới thiệu bạn bè tham gia thực tập ở đây không? Vì sao?**  
+Chắc chắn là có. Mình sẽ giới thiệu chương trình này vì lộ trình đào tạo được xây dựng rất rõ ràng, nội dung thân thiện với người mới bắt đầu, cùng đội ngũ mentor cực kỳ nhiệt huyết, luôn tạo mọi điều kiện để thực tập sinh phát triển toàn diện cả về chuyên môn lẫn kỹ năng mềm.
+
+---
 
 ### Đề xuất & mong muốn
-- Mong công ty tổ chức thêm các buổi thực hành theo nhóm hoặc workshop chuyên sâu về các dịch vụ AWS và chia sẻ kinh nghiệm triển khai dự án thực tế.  
-- Nếu có cơ hội mình mong muốn tiếp tục được tham gia các chương trình đào tạo hoặc dự án thực tế để nâng cao kiến thức và tích lũy thêm kinh nghiệm.
+- Mình hy vọng công ty sẽ tổ chức thêm nhiều hoạt động thực hành theo nhóm hoặc các buổi workshop chuyên sâu về AWS, kết hợp chia sẻ kinh nghiệm từ những dự án đã triển khai thực tế.  
+- Nếu có cơ hội, mình rất mong muốn được tiếp tục đồng hành cùng công ty trong các chương trình đào tạo tiếp theo hoặc tham gia vào các dự án thực tế để trau dồi kiến thức và tích lũy thêm kinh nghiệm chuyên môn.S

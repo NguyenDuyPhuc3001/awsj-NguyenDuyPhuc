@@ -6,31 +6,31 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-During my internship at **[FCAJ]** from **[April 20, 2026]** to **[July 12, 2026]**, I had the opportunity to work in a real-world professional environment, learn the company's workflow, and participate in training activities related to AWS cloud services. Through hands-on labs and assigned tasks, I gradually strengthened my technical knowledge while improving my ability to conduct independent research, apply practical skills, and solve problems encountered during my work.
+During my internship at **[FCAJ]** from **[April 20, 2026]** to **[July 12, 2026]**, I had the valuable opportunity to experience a real-world professional environment, familiarize myself with operational workflows, and engage in comprehensive training on AWS cloud services. Through hands-on lab exercises and assigned tasks, I progressively solidified my technical foundation while enhancing my capacity for independent research, practical application, and flexible problem-solving.
 
-In addition to developing my technical expertise, I also improved my time management skills, learned how to work according to a structured plan, and collaborated effectively with my mentor and team members to complete assigned tasks. These experiences gave me a better understanding of a professional working environment and helped me define a clearer direction for my future career.
+Beyond developing my technical expertise, I also cultivated crucial soft skills such as time management, task planning, and effective collaboration with my mentor and team members to achieve our shared goals. These practical experiences have provided me with a comprehensive overview of a professional workplace, serving as a solid foundation to guide my future career path.
 
-To provide an objective reflection of my internship performance, I would like to evaluate myself based on the following criteria:
+To provide an objective reflection on my internship performance, I have evaluated my capabilities and professional attitude based on the following criteria:
 
 | No. | Criteria                            | Description                                                                                      | Good | Fair | Average |
 | --- | ----------------------------------- | ------------------------------------------------------------------------------------------------ | ---- | ---- | ------- |
-| 1   | **Professional knowledge & skills** | Understanding of the field, applying knowledge in practice, proficiency with tools, work quality | ✅    | ☐    | ☐       |
-| 2   | **Ability to learn**                | Ability to absorb new knowledge and learn quickly                                                | ☐    | ✅    | ☐       |
-| 3   | **Proactiveness**                   | Taking initiative, seeking out tasks without waiting for instructions                            | ✅    | ☐    | ☐       |
-| 4   | **Sense of responsibility**         | Completing tasks on time and ensuring quality                                                    | ✅    | ☐    | ☐       |
-| 5   | **Discipline**                      | Adhering to schedules, rules, and work processes                                                 | ☐    | ☐    | ✅       |
-| 6   | **Progressive mindset**             | Willingness to receive feedback and improve oneself                                              | ☐    | ✅    | ☐       |
-| 7   | **Communication**                   | Presenting ideas and reporting work clearly                                                      | ☐    | ✅    | ☐       |
-| 8   | **Teamwork**                        | Working effectively with colleagues and participating in teams                                   | ✅    | ☐    | ☐       |
-| 9   | **Professional conduct**            | Respecting colleagues, partners, and the work environment                                        | ✅    | ☐    | ☐       |
-| 10  | **Problem-solving skills**          | Identifying problems, proposing solutions, and showing creativity                                | ☐    | ✅    | ☐       |
-| 11  | **Contribution to project/team**    | Work effectiveness, innovative ideas, recognition from the team                                  | ✅    | ☐    | ☐       |
-| 12  | **Overall**                         | General evaluation of the entire internship period                                               | ✅    | ☐    | ☐       |
+| 1   | **Professional knowledge & skills** | Industry knowledge, practical application of skills, tool proficiency, and overall work quality  | ✅    | ☐    | ☐       |
+| 2   | **Ability to learn**                | Aptitude for absorbing new concepts and learning agility                                         | ☐    | ✅    | ☐       |
+| 3   | **Proactiveness**                   | Self-starting ability, seeking out responsibilities without requiring constant direction         | ✅    | ☐    | ☐       |
+| 4   | **Sense of responsibility**         | Delivering work on schedule while maintaining high quality standards                             | ✅    | ☐    | ☐       |
+| 5   | **Discipline**                      | Strict adherence to company schedules, internal rules, and operational processes                 | ☐    | ☐    | ✅       |
+| 6   | **Progressive mindset**             | Openness to constructive feedback and dedication to continuous self-improvement                  | ☐    | ✅    | ☐       |
+| 7   | **Communication skills**            | Articulating ideas and reporting task progress clearly and effectively                           | ☐    | ✅    | ☐       |
+| 8   | **Teamwork**                        | Collaborating seamlessly with colleagues and actively contributing to the team                   | ✅    | ☐    | ☐       |
+| 9   | **Professional conduct**            | Demonstrating respect for colleagues, partners, and the corporate culture                        | ✅    | ☐    | ☐       |
+| 10  | **Problem-solving skills**          | Identifying issues promptly and proposing viable, creative solutions                             | ☐    | ✅    | ☐       |
+| 11  | **Contribution to project/team**    | Overall impact, generation of innovative ideas, and peer recognition                             | ✅    | ☐    | ☐       |
+| 12  | **Overall**                         | Comprehensive assessment of performance throughout the entire internship period                  | ✅    | ☐    | ☐       |
 
 ### Needs Improvement
 
-* Improve my ability to study and understand advanced technical documentation, especially materials written in English, in order to learn new technologies more efficiently.  
-* Strengthen my skills in analyzing requirements and planning tasks before implementation to reduce errors and improve work efficiency.
-* Enhance my presentation and communication skills to report progress and exchange ideas more clearly and professionally.
-* Take greater initiative in exploring advanced AWS services and expanding my knowledge beyond the assigned lab exercises.
-* Continue improving my time management skills and my ability to prioritize tasks when handling multiple responsibilities simultaneously.
+* Enhance my reading comprehension of advanced English technical documentation to adopt new technologies more swiftly and efficiently.  
+* Refine my ability to analyze requirements and meticulously plan tasks prior to execution, thereby minimizing errors and optimizing efficiency.
+* Further develop my presentation and communication skills to articulate ideas, report progress, and exchange feedback with greater clarity and professionalism.
+* Demonstrate greater initiative in exploring advanced AWS services, expanding my knowledge base beyond the scope of assigned lab exercises.
+* Continue to master time management and task prioritization, particularly when juggling multiple responsibilities simultaneously.S

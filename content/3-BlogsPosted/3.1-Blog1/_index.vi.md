@@ -1,12 +1,11 @@
 ---
 title: "Blog 1 - Tìm hiểu kiến trúc lưu trữ Binary Assets với Lore trên AWS"
-date: 2024-01-01
+date: 2026-06-24
 weight: 1
 chapter: false
 pre: " <b> 3.1. </b> "
 ---
 
-# TÌM HIỂU KIẾN TRÚC LƯU TRỮ BINARY ASSETS VỚI LORE TRÊN AWS
 
 Trong quá trình phát triển game hoặc các dự án truyền thông số, việc quản lý các **Binary Assets** như hình ảnh, âm thanh, video, mô hình 3D hay animation luôn là một thách thức lớn. Những tệp này thường có kích thước lớn, được cập nhật liên tục và yêu cầu hệ thống lưu trữ vừa có khả năng mở rộng, vừa tối ưu chi phí.
 
@@ -142,7 +141,7 @@ Khi kết hợp với các dịch vụ của AWS như **Amazon S3**, **Amazon EC
 
 Kiến trúc dưới đây minh họa cách **Lore** triển khai hệ thống lưu trữ binary assets trên AWS. Dữ liệu được tiếp nhận thông qua các Edge Pods, định tuyến bằng AWS Cloud Map, xử lý bởi Amazon ECS và lưu trữ trên Amazon S3 cùng Amazon DynamoDB. Kiến trúc này giúp tối ưu hiệu năng, giảm dữ liệu trùng lặp và hỗ trợ khả năng mở rộng cho các dự án có khối lượng binary assets lớn.
 
-![AWS Reference Architecture for Binary Asset Storage with Lore](\anhblog1.jpg)
+![AWS Reference Architecture for Binary Asset Storage with Lore](/images/3-Blog/aws-reference-architecture-for-binary-asset-storage-with-lore.jpg)
 
 *Hình 1. AWS Reference Architecture for Binary Asset Storage with Lore.*
 

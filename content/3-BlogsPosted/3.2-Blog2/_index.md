@@ -1,12 +1,11 @@
 ---
 title: "Blog 2 - Preventing Data Exfiltration on AWS Using Egress Controls for Cloud Workloads"
-date: 2024-01-02
+date: 2026-06-30
 weight: 2
 chapter: false
 pre: " <b> 3.2. </b> "
 ---
 
-# PREVENTING DATA EXFILTRATION ON AWS USING EGRESS CONTROLS FOR CLOUD WORKLOADS
 
 ## Introduction
 
@@ -167,7 +166,7 @@ This topic is particularly valuable for professionals learning AWS Security, Dev
 
 The following architecture illustrates the multi-layered security approach recommended by AWS to help prevent and detect **Data Exfiltration**. It combines services such as AWS Network Firewall, Amazon Route 53 Resolver DNS Firewall, Data Perimeter controls, Amazon GuardDuty, AWS Security Hub, and Amazon CloudWatch to strengthen outbound traffic (Egress Traffic) protection and improve overall security visibility.
 
-![AWS Reference Architecture for Preventing Data Exfiltration](\anhblog2.jpg)
+![AWS Reference Architecture for Preventing Data Exfiltration](/images/3-Blog/aws-reference-architecture-for-preventing-data-exfiltration.jpg)
 
 *Picture 2. AWS Reference Architecture for Preventing Data Exfiltration.*
 
