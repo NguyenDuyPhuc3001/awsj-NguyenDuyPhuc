@@ -25,7 +25,7 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày 17/04/2025 đến ngày 10/07/2025
 
-![Ảnh đại diện của bạn](/AWS-FCAJ/images/ava.jpg)
+<img src="/awsj-NguyenDuyPhuc/images/ava.jpg" alt="Avatar" width="250">
 
 
 

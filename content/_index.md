@@ -26,7 +26,7 @@ chapter: false
 
 &emsp; **Internship Duration:** From 17/04/2025 to 10/07/2025
 
-![Your profile picture](/images/ava.jpg)
+<img src="/awsj-NguyenDuyPhuc/images/ava.jpg" alt="Avatar" width="250">
 
 ### Report Content
 
