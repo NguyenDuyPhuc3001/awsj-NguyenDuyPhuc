@@ -44,8 +44,7 @@ The system uses a 3-tier AWS architecture:
 
 ### 3.1 Architecture Snapshots
 
-<img src="/awsj-NguyenDuyPhuc/images/caulongvui-architecture.jpg" alt="Mô tả ảnh">
-
+<img src="/awsj-NguyenDuyPhuc/images/2-Proposal/caulongvui-architecture.jpg" alt="Mô tả ảnh">
 
 ### 3.2 Core AWS Services
 
