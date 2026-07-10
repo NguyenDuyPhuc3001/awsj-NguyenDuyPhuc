@@ -200,6 +200,6 @@ I walked away not only with a list of new technologies to explore but, more impo
 
 ## Event Photos
 
-![Event picture 27/6-1](/AWS-FCAJ/images/4-EventParticipated/anheventsukien27-6-1.jpg) "Event picture 27/6-1"
-![Event picture 27/6-2](/AWS-FCAJ/images/4-EventParticipated/anheventsukien27-6-2.jpg) "Event picture 27/6-2"
-![Event picture 27/6-3](/AWS-FCAJ/images/4-EventParticipated/anheventsukien27-6-3.jpg) "Event picture 27/6-3"
+<img src="/awsj-NguyenDuyPhuc/static/images/4-EventParticipated/anheventsukien27-6-1.jpg" alt="event1">
+<img src="/awsj-NguyenDuyPhuc/static/images/4-EventParticipated/anheventsukien27-6-2.jpg" alt="event2">
+<img src="/awsj-NguyenDuyPhuc/static/images/4-EventParticipated/anheventsukien27-6-3.jpg" alt="event3">

@@ -137,7 +137,7 @@ For anyone studying **AWS Security** or preparing to deploy enterprise workloads
 
 The following architecture illustrates the automated security response workflow recommended by AWS. It integrates Amazon GuardDuty, Amazon EventBridge, AWS Step Functions, AWS Systems Manager, AWS Directory Service APIs, and Amazon SNS to automatically detect suspicious Active Directory activities, disable compromised user accounts, and notify administrators.
 
-<img src="/awsj-NguyenDuyPhuc/images/3-blog/anhblog3.jpg" alt="Blog 3">
+<img src="/awsj-NguyenDuyPhuc/static/images/3-blog/anhblog3.jpg" alt="Blog 3">
 
 *Figure 3. AWS Reference Architecture for Automated Identity Lifecycle and Security.*
 

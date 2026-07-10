@@ -199,6 +199,6 @@ Khép lại sự kiện, mình thu về không chỉ là danh sách các công n
 
 ## Hình ảnh sự kiện
 
-![Ảnh sự kiện 27/6-1](/AWS-FCAJ/images/4-EventParticipated/anheventsukien27-6-1.jpg) "Ảnh sự kiện 27/6-1"
-![Ảnh sự kiện 27/6-2](/AWS-FCAJ/images/4-EventParticipated/anheventsukien27-6-2.jpg) "Ảnh sự kiện 27/6-2"
-![Ảnh sự kiện 27/6-3](/AWS-FCAJ/images/4-EventParticipated/anheventsukien27-6-3.jpg) "Ảnh sự kiện 27/6-3"
+<img src="/awsj-NguyenDuyPhuc/static/images/4-EventParticipated/anheventsukien27-6-1.jpg" alt="event1">
+<img src="/awsj-NguyenDuyPhuc/static/images/4-EventParticipated/anheventsukien27-6-2.jpg" alt="event2">
+<img src="/awsj-NguyenDuyPhuc/static/images/4-EventParticipated/anheventsukien27-6-3.jpg" alt="event3">
