@@ -162,5 +162,4 @@ To allow the Application Load Balancer and Auto Scaling Group to check the opera
        - **Metric type**: Select `Average CPU utilization`.
        - **Target value**: Enter `50` or `70` (whenever the average CPU utilization exceeds this value, the ASG will spin up additional EC2 instances).
    - **Steps 5, 6, and 7**: Advance through the default tag and notification settings, then click **Create Auto Scaling group**.
-#### 5. link web CauLongVui
-- https://d33wcfjdygo2at.cloudfront.net/
+
