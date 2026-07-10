@@ -142,7 +142,7 @@ Thay vì phụ thuộc vào các thao tác thủ công, doanh nghiệp có thể
 
 Kiến trúc dưới đây minh họa quy trình tự động hóa quản lý danh tính và phản ứng bảo mật bằng cách kết hợp AWS Directory Service Data APIs với các dịch vụ như Amazon GuardDuty, Amazon EventBridge, AWS Step Functions, AWS Systems Manager và Amazon SNS. Khi Amazon GuardDuty phát hiện hoạt động bất thường, sự kiện sẽ được chuyển đến Amazon EventBridge để kích hoạt quy trình AWS Step Functions. Workflow này sử dụng AWS Systems Manager để xác định người dùng đang hoạt động trên máy EC2, sau đó gọi Directory Service Data APIs để tự động vô hiệu hóa tài khoản nghi ngờ bị xâm nhập và gửi email thông báo đến quản trị viên thông qua Amazon SNS.
 
-<img src="/awsj-NguyenDuyPhuc/static/images/3-blog/anhblog3.jpg" alt="Blog 3">
+<img src="/awsj-NguyenDuyPhuc/images/3-blog/anhblog3.jpg" alt="Blog 3">
 
 *Hình 3. AWS Reference Architecture for Automated Identity Lifecycle and Security.*
 

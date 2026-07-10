@@ -200,6 +200,6 @@ I walked away not only with a list of new technologies to explore but, more impo
 
 ## Event Photos
 
-<img src="/awsj-NguyenDuyPhuc/static/images/4-EventParticipated/anheventsukien27-6-1.jpg" alt="event1">
-<img src="/awsj-NguyenDuyPhuc/static/images/4-EventParticipated/anheventsukien27-6-2.jpg" alt="event2">
-<img src="/awsj-NguyenDuyPhuc/static/images/4-EventParticipated/anheventsukien27-6-3.jpg" alt="event3">
+<img src="/awsj-NguyenDuyPhuc/images/4-EventParticipated/anheventsukien27-6-1.jpg" alt="event1">
+<img src="/awsj-NguyenDuyPhuc/images/4-EventParticipated/anheventsukien27-6-2.jpg" alt="event2">
+<img src="/awsj-NguyenDuyPhuc/images/4-EventParticipated/anheventsukien27-6-3.jpg" alt="event3">

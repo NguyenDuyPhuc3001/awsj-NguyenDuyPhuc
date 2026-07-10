@@ -141,7 +141,7 @@ Khi kết hợp với các dịch vụ của AWS như **Amazon S3**, **Amazon EC
 
 Kiến trúc dưới đây minh họa cách **Lore** triển khai hệ thống lưu trữ binary assets trên AWS. Dữ liệu được tiếp nhận thông qua các Edge Pods, định tuyến bằng AWS Cloud Map, xử lý bởi Amazon ECS và lưu trữ trên Amazon S3 cùng Amazon DynamoDB. Kiến trúc này giúp tối ưu hiệu năng, giảm dữ liệu trùng lặp và hỗ trợ khả năng mở rộng cho các dự án có khối lượng binary assets lớn.
 
-<img src="/awsj-NguyenDuyPhuc/static/images/3-blog/anhblog1.jpg" alt="Blog 1">
+<img src="/awsj-NguyenDuyPhuc/images/3-blog/anhblog1.jpg" alt="Blog 1">
 
 *Hình 1. AWS Reference Architecture for Binary Asset Storage with Lore.*
 
