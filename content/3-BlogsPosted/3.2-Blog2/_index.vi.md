@@ -170,7 +170,7 @@ Bằng cách kết hợp AWS Network Firewall, Route 53 Resolver DNS Firewall, G
 
 Kiến trúc dưới đây minh họa mô hình nhiều lớp mà AWS đề xuất để ngăn chặn và phát hiện các hành vi **Data Exfiltration**. Kiến trúc kết hợp các dịch vụ như AWS Network Firewall, Amazon Route 53 Resolver DNS Firewall, Data Perimeter, Amazon GuardDuty, AWS Security Hub và Amazon CloudWatch nhằm tăng cường khả năng bảo vệ lưu lượng đi ra (Egress Traffic).
 
-<img src="/awsj-NguyenDuyPhuc/images/3-blog/anhblog2.jpg" alt="Blog 2">
+<img src="/awsj-NguyenDuyPhuc/images/3-Blog/anhblog2.jpg" alt="Blog 2">
 
 *Hình 2. AWS Reference Architecture for Preventing Data Exfiltration.*
 

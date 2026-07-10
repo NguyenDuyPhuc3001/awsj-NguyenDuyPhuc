@@ -12,6 +12,15 @@ Trong phần này, chúng ta sẽ thực hiện tích hợp **AWS Cognito** và 
 > Toàn bộ các đường dẫn `http://localhost:8080/` trong cấu hình cục bộ sẽ được thay thế bằng đường dẫn của ứng dụng web đã triển khai trên AWS (ví dụ: `https://caulong.awsfcaj.com/`).
 
 ---
+### Hình ảnh minh họa
+
+![Create Cognito user pool](/awsj-NguyenDuyPhuc/images/5-Workshop/5.1-AWS-Cognito/image1.png)
+
+![Choose application type](/awsj-NguyenDuyPhuc/images/5-Workshop/5.1-AWS-Cognito/image2.png)
+
+![Basic user pool settings](/awsj-NguyenDuyPhuc/images/5-Workshop/5.1-AWS-Cognito/image3.png)
+
+![Registration settings](/awsj-NguyenDuyPhuc/images/5-Workshop/5.1-AWS-Cognito/image4.png)
 
 ### Bước 1: Tạo User Pool trên AWS Cognito
 

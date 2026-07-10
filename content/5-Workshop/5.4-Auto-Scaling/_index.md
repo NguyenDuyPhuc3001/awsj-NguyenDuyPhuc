@@ -10,13 +10,13 @@ In this section, we will set up the automatic scaling system (**Auto Scaling**) 
 
 ### Visual Reference
 
-![Create launch template](/AWS-FCAJ/images/5-Workshop/5.4-Auto-Scaling/image1.png)
+![Create launch template](/awsj-NguyenDuyPhuc/images/5-Workshop/5.4-Auto-Scaling/image1.png)
 
-![Create target group](/AWS-FCAJ/images/5-Workshop/5.4-Auto-Scaling/image6.png)
+![Create target group](/awsj-NguyenDuyPhuc/images/5-Workshop/5.4-Auto-Scaling/image6.png)
 
-![Create Application Load Balancer](/AWS-FCAJ/images/5-Workshop/5.4-Auto-Scaling/image9.png)
+![Create Application Load Balancer](/awsj-NguyenDuyPhuc/images/5-Workshop/5.4-Auto-Scaling/image9.png)
 
-![Create Auto Scaling Group](/AWS-FCAJ/images/5-Workshop/5.4-Auto-Scaling/image16.png)
+![Create Auto Scaling Group](/awsj-NguyenDuyPhuc/images/5-Workshop/5.4-Auto-Scaling/image16.png)
 
 ---
 

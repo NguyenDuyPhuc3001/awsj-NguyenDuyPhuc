@@ -22,7 +22,7 @@ The system is architected to align with cloud design best practices for performa
 
 #### Architecture Snapshots
 
-![CauLongVui AWS architecture](/AWS-FCAJ/images/2-Proposal/caulongvui-architecture.jpg)
+<img src="/awsj-NguyenDuyPhuc/images/2-Proposal/caulongvui-architecture.jpg" alt="Mô tả ảnh">
 
 #### Content
 
