@@ -11,7 +11,8 @@ pre: " <b> 5. </b> "
 #### Overview
 
 In this series of hands-on labs, we will build and deploy a **Fullstack** web application (Static Frontend + Spring Boot Backend + SQL Server Database) on **Amazon Web Services (AWS)**.
-* **Web Demo (CauLongVui)**: [https://d33wcfjdygo2at.cloudfront.net/](https://d33wcfjdygo2at.cloudfront.net/)
+**Web Demo (CauLongVui)**: [https://d33wcfjdygo2at.cloudfront.net/](https://d33wcfjdygo2at.cloudfront.net/)
+**Video Demo**: [https://drive.google.com/drive/u/0/folders/1XI1mu_dUN5vNOfi7s5rXoBk4oP7qKwcz](https://drive.google.com/drive/u/0/folders/1XI1mu_dUN5vNOfi7s5rXoBk4oP7qKwcz)
 The system is architected to align with cloud design best practices for performance, scalability, security, and high availability:
 - **Identity & Access Management**: Integrate **AWS Cognito** as the identity broker, enabling Google OAuth federated login.
 - **Network Design & Security**: Create a custom **VPC** with isolated public and private subnets, securing resource communications using **Security Groups** and **AWS WAF**.
